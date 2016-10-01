@@ -1,0 +1,70 @@
+## What's new? ##
+
+[0.9 RC1 - FINAL]
+· Now you can save files
+· Some internal code changes
+· Preparing to release
+· Fixed some bugs
+
+[0.8 RC0]
+· Add new options
+· Updated to Nkeyboard v1.3 (MODDED)
+· New dialog screens
+· Now you can open files. It supports:
+	text plain files
+	lua files
+	c/c++ source files
+	c# files
+	xml and html files
+	python source files
+	pascal source files
+	java source files
+· Fixed some bugs
+
+[0.7 RC alpha]
+· Errase start menu
+· New contextual menu
+· Internal changes in the code
+· Now support languajes
+· Reorganice filesystem
+· Fixed some bugs
+
+[0.6 POC]
+· Updated to OneLua v2
+· New start menu
+· Change 'img' folder by 'icon' and reorganice the files
+· Now marks the current file
+· New icon of CreativeCommons license
+· Now shows if the file is modified
+· Fixed some bugs
+
+[0.5 POC]
+· Return to OneLua (OneLua v1 r1)
+· Reorganice filesystem:
+	Libraries are in 'lib'
+	Configuration files are in 'conf'
+	Images and icons are in 'img'
+· Now support multi-edition
+· New Welcome file with more informatión
+· Updated to NKeyboard v1.2 (MODDED)
+· Fixed some bugs
+
+[0.4 POC]
+· Freeze graphic interface, now it doesn't change
+· Add old functionalities and updated to new interface
+· Updated utf8 library
+· Fixed some bugs
+
+[0.3 POC]
+· Port to LuaDEV r0
+· Now uses PNGFont 4.0 instead of screen.print native function
+· Delete new functions due to Luaplayer change
+· Fixed some bugs
+
+[0.2 POC]
+· Now uses OneLua v1 r0
+· Uses utf8 library to edit text
+· Now you can move and show current line if it are bigger than the screen
+· Restringed lines in order to improve performance
+· Included NKeyboard like standard keyboard (It's a modified version)
+· Fixed some bugs
